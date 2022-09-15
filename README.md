@@ -1,7 +1,9 @@
 # react-native-redux-toolkit-starter
 
-npm install
-npx expo start
+`git clone https://github.com/aerlinn13/react-native-redux-toolkit-starter.git` 
+
+`npm install &&
+npx expo start`
 
 Install Expo app on your phone, create an account
 Scan QR code with your phone
